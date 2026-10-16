@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+python/ktorch/_native.dll
+python/ktorch/_native.so
+python/ktorch/_native.dylib
+*.o
+*.obj
+*.exp
+*.lib
+
+# Local learning notes, AI handoffs, and the offline teaching website.
+/AGENTS.md
+/PROJECT_GUIDE.md
+/docs/
+/.local/
